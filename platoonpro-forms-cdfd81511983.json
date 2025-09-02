@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "platoonpro-forms",
+  "private_key_id": "cdfd81511983fbb2bb05deddab461b400844ce60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDLw4VIq4CCUzCn\ntLAQHdpTiQcvTPTYWSxE7cA7f3yR92igeG82RRcBD5kpUZ2f4R24f8jeVx9tCGjd\nUWxZiiCt3qzObIj2YUze9Z2g2uYkRwhhQsWEGYj6bcjle+NLQAPsazoGMpA/Zh8D\nMm3IGdwqN9PYjaD6k5UXRACjU8Cbsx+lgYL38ipXJv3EB8Cj4CnGENQKafubuMcH\nzyz4akAK1gXPJALkxPdJI4z1Bg1QI65oX4ZQHdGEGeARcAQULFHtwVP/VpVibsW1\nic3SBU25Yh5ANUeNWp2Z9p0xJfp6LGzz3CZ+cyapeYxU6xx+eBXUIv09e3DzAcpD\n8uVdUCo7AgMBAAECggEAEspDcrmZ/qqkPHrdl4bhOL3Uo0iB9ad3fR29kd8GQkGh\n7NZeTw9c+TSSh6xmkDVGs9pY0CQRmlDhtrMI/lLOA6qaneiFUs8TMyZMNGarPWIt\nhCaPp0hhiNJx6bOceLZ9BiK3NZYZFjeZGYbfd8nmsx/10azx0NmmMICNXIJfKxxV\n5muclAwQQEV67Drv2jEt6u2MI25mGwJA9K+9N5nFvTiw7GKwBAPTVNLMH3NtgBdU\nsZE6KPIPNSzU/iL5btoIGOQrsZjpHdgnbHdyHX1LkFXj2hsYSTLf5z+6535F04TZ\nlg3n+VH0qRapX5KQG6bWBwZqfJWdSiFLgzT5a8W3RQKBgQDqGMY4oMoFuRVYxQdA\nR6tZ4Dg+ZtOw73F2jSQaOgCQnZyNwrs0vfGFlgUvV8mbeymnpIh18j9xVcw4S00E\n8jyL6mt+m6tYHWC7K9Xhps2aklH9ieWy8gHvCOOrKpioNtnoJL01rn2npEYOC26C\nmtBWP5FvR3zWA/YDPx8jXXOtHwKBgQDe1DESOn6bga2gGDunLWBfz1VaD6p5doe+\nqK8ESOhpIZgtxIqtCgHKwRztf8Xccz03whXlC/UIFZBND/MbLpUa4jhOKpBU+vTe\nRF2h9SY+0+RXWy0waf2gLi4R+fa4NcfvXlwrk57p/1zxmd3fSUylg5BIgyy4C61v\nx324WiqDZQKBgE1iIyRVAnMh24yclOkKx/nNxMnb895pSHiH74c75TPo5fd2h6vH\nni8qiEw+GMbsz7g7C2Dx00cDtZ5mRe98o8cclqwjiWB3VaKJuwn8ubp+49uL2gJt\nPXZm2dubGRuCBkZW3rUAGUlxZDcAUGecBYJ9QPYoC3wzkv8/vmtSWQrBAoGAIDVp\ntmnQHSg8cZSvIrYTZSXx/2eeS5pPesalLahgN7oMZikvpl147tbFGKtMbVYW9jVO\ntuHolDeRuSHiEP7FvLIQU3QhkrcHqA0Xv65QzeoQ6nOab5ISgBHMxPptqCjV8oqg\nJghbgxVPWPjVsk3FD3OZ6nFTiHLfqfWa/YfC92UCgYApNqk+p3V302eqpqxJ+NCD\nXGKjIPZgAI4Q6EPh2xXmHHPLAGU57CMu1ofNfHqLOoAPZh+5VP3ho4QuKHZXDo6s\nRUMCutLHrEk2wwbU4wDyY/bHoi2N0VnSq3Sd2/O4f5FM2ob8OOJ7hhZvPwX7JaGE\n5/MGHUWKiO2ZomgxC/8xJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "forms-backend@platoonpro-forms.iam.gserviceaccount.com",
+  "client_id": "107551716653965663311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forms-backend%40platoonpro-forms.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
